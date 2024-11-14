@@ -1,0 +1,5 @@
+def operacion_basica(a, b, c, d, e, f):
+    resultado = a * b + c / d * e + b - f
+    return resultado
+
+print(operacion_basica(6, 6, 5, 4, 3, 2))
